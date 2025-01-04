@@ -45,6 +45,8 @@ Smart-Utility-Management-System/
 
 Getting Started
 Prerequisites
+
+
 Java Development Kit (JDK) 8+
 MySQL Server
 Web Browser (for the frontend)

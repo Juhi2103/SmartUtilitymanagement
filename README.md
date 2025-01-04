@@ -15,3 +15,36 @@ Database: MySQL
 Version Control: Git/GitHub
 
 
+Structure 
+Smart-Utility-Management-System/
+│
+├── backend/
+│   ├── src/
+│   │   ├── Main.java
+│   │   ├── models/
+│   │   │   └── User.java
+│   │   ├── services/
+│   │   │   └── UserService.java
+│   │   ├── utils/ (if needed for database connection)
+│   └── database/
+│       └── setup.sql
+│
+├── frontend/
+│   ├── index.html
+│   ├── styles/
+│   │   └── styles.css
+│   ├── scripts/
+│       └── app.js
+│
+├── docs/
+│   └── user-guide.md
+│
+├── .gitignore
+├── LICENSE
+└── README.md
+
+Getting Started
+Prerequisites
+Java Development Kit (JDK) 8+
+MySQL Server
+Web Browser (for the frontend)
